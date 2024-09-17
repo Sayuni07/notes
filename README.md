@@ -1,6 +1,6 @@
 # Notes
 ## Number row characters
-- ! - Exclmation mark
+- ! - Exclamation mark
 - @ - At sign
 - \# - Hashtag
 - $ - Dollar sign
