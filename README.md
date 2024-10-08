@@ -34,5 +34,5 @@ Shortcuts I would like to start using:
 - Ctrl+Del (delete words to the right)
 - Ctrl+H (find and replace text)
 
-
+[CLI Commands](docs/cli.md)
 
