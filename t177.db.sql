@@ -1,8 +1,4 @@
-SELECT *
-FROM assignments
-WHERE status != 'Not Started'
-ORDER BY due_date;
+-- Concatenate Course Name and Semester:
+SELECT CONCAT (course_name, '-', semester) AS course_id
+FROM courses;
 
-SELECT *
-FROM  courses
-WHERE course_name LIKE 'Intro%';
